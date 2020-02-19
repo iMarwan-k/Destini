@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Destini
 I learned in this project how to create a user choice storyline that is interactable with the user
 
